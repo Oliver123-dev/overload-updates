@@ -1,82 +1,73 @@
 {
-  "version": "1.0.0",
-  "build_time": "2025-12-02T13:52:49.688390",
+  "version": "1.0.2",
   "files": {
-    "app/main.pyc": {
-      "hash": "78e42f3c9a167b85",
+    "main.pyc": {
+      "hash": "78e42f3c9a167b853ab3a8d7580860444dece334024bca4262407ebb6cbbad4c",
       "size": 1992
     },
-    "app/version.txt": {
-      "hash": "92521fc3cbd964bd",
-      "size": 5
-    },
-    "app/core/data_processor.pyc": {
-      "hash": "4e24275170930f7c",
+    "core/data_processor.pyc": {
+      "hash": "4e24275170930f7cb31a6d71583bcdcc7ad9a3f9f536d6031a07f732d1c97dd5",
       "size": 13082
     },
-    "app/core/license_utils.pyc": {
-      "hash": "a8618e5cc22a706e",
-      "size": 10204
+    "core/license_utils.pyc": {
+      "hash": "a0f6509b708b28ac7a08d3aa64e182cc82db0b7ad6ad37dada709f4d5d1d3389",
+      "size": 13007
     },
-    "app/core/load_3ds.pyc": {
-      "hash": "88efaa2cf47e4283",
+    "core/load_3ds.pyc": {
+      "hash": "88efaa2cf47e4283957c1ce4c91d45f37058d57ed8147b018dcf39e90d42defe",
       "size": 14152
     },
-    "app/core/load_dat.pyc": {
-      "hash": "11d78e78efe4ea51",
+    "core/load_dat.pyc": {
+      "hash": "11d78e78efe4ea51b0cdbb6c06858a9e85e82102f3e0f0e237000d86a5129bc9",
       "size": 6640
     },
-    "app/core/load_sxm.pyc": {
-      "hash": "b3c414911d2412f0",
+    "core/load_sxm.pyc": {
+      "hash": "b3c414911d2412f00982be8ec155c69c7f3bf4bb98f5d353c6616756f1fbc759",
       "size": 10054
     },
-    "app/core/updater.pyc": {
-      "hash": "94f98259901c0483",
-      "size": 15478
+    "core/updater.pyc": {
+      "hash": "387373d223198a8734d502a10da3e30718eb01015c082d899a51cb68d44d07c2",
+      "size": 15195
     },
-    "app/core/__init__.pyc": {
-      "hash": "6dfe2ce0b0da5aa3",
+    "core/__init__.pyc": {
+      "hash": "6dfe2ce0b0da5aa3f97eb695f9eb03837c84ee6c245786675721c0fe308c84fe",
       "size": 140
     },
-    "app/ui/license_dialog.pyc": {
-      "hash": "46bebe4cdca40435",
+    "ui/license_dialog.pyc": {
+      "hash": "46bebe4cdca40435e35bf5f01faca06d408619eed2e1320282f3f001b2286d42",
       "size": 23470
     },
-    "app/ui/main_window.pyc": {
-      "hash": "e3473359f2403375",
+    "ui/main_window.pyc": {
+      "hash": "e3473359f240337520b2b66e41725037b5c29d8717d15786bc2aa0eedf12c5c7",
       "size": 25031
     },
-    "app/ui/viewer_3ds.pyc": {
-      "hash": "a7386e9e741510d6",
-      "size": 34017
+    "ui/viewer_3ds.pyc": {
+      "hash": "10b04ac14cbbc60a2827da119bae0ec7b550223fcacfca0ce0dad155c05f8056",
+      "size": 35794
     },
-    "app/ui/viewer_3ds_v2.pyc": {
-      "hash": "36f92908dc53b947",
-      "size": 170533
+    "ui/viewer_3ds_v2.pyc": {
+      "hash": "588f44e4c633acf6f06d25ab1c98d9b53d0eb804151d80d88491fe3cfb521b19",
+      "size": 176439
     },
-    "app/ui/viewer_kspace.pyc": {
-      "hash": "9afb500e363db463",
+    "ui/viewer_kspace.pyc": {
+      "hash": "9afb500e363db4634943c1b229547cb7a5594934f9f673b5a1955569d4034c2a",
       "size": 65129
     },
-    "app/ui/viewer_pts.pyc": {
-      "hash": "4e01252e64b5d7d8",
+    "ui/viewer_pts.pyc": {
+      "hash": "4e01252e64b5d7d807b9510542df6abb75a22d778c2b72a2862a1210ca3e7af6",
       "size": 29345
     },
-    "app/ui/viewer_pts_complete.pyc": {
-      "hash": "c62dab8f40ea5253",
-      "size": 100215
+    "ui/viewer_pts_complete.pyc": {
+      "hash": "b51ac3df9d51ae1ebe5a96774b79e79ee19a58ca3916ed4631ce2a86797a8c9a",
+      "size": 103384
     },
-    "app/ui/viewer_sxm.pyc": {
-      "hash": "2fe64e7f088f1085",
+    "ui/viewer_sxm.pyc": {
+      "hash": "2fe64e7f088f1085943b4524e062313c5f00b34c0041f90ef3cad0424776ee44",
       "size": 34420
     },
-    "app/ui/__init__.pyc": {
-      "hash": "30bd8f30f3b66682",
+    "ui/__init__.pyc": {
+      "hash": "30bd8f30f3b66682d4fb9eaac2101c89c1d73730bb83ed1180b1ad41509c2c80",
       "size": 138
-    },
-    "app/utils/__init__.pyc": {
-      "hash": "a03ff19ba6017860",
-      "size": 141
     }
   }
 }
